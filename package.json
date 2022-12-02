@@ -1,7 +1,5 @@
 {
   "name": "nodelogin",
-  "version": "2",
-  "main": "api/index.js",
   "type": "module",
   "engines": {
     "node": "14.x"
