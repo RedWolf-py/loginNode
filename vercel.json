@@ -1,7 +1,5 @@
 {
-    "name": "nodelogin",
-    "version": "2",
-    "public": true,
+   
     "builds": [
         {
             "src": "api/index.js",
