@@ -1,4 +1,7 @@
 {
+    "name": "nodelogin",
+    "version": "1.0.0",
+    "public": true,
     "builds": [
         {
             "src": "api/index.js",
